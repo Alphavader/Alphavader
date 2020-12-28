@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello, I'm Karl von Bonin 👋👋
 
-<!--
-**Alphavader/Alphavader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate (frontend) developer and consultant with a strong design and entrepreneurial background.
+I have founded several startups, developed web shops, web apps, native apps and games for more than 15 years now.
 
-Here are some ideas to get you started:
+Currently founded my own IT-Agency. (more coming soon) 🍻🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in tough via
+
+- [Website - Bonindesign.com](https://www.bonindesign.de/)
+- [LinkedIn](https://www.linkedin.com/in/karlvonbonin/)
+- [Xing](https://www.xing.com/profile/Karl_vonBonin/cv)
+

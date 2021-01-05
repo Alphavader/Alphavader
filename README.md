@@ -1,7 +1,7 @@
 ## Hello, I'm Karl 👋👋
 
 I’m a passionate (freelance) developer and consultant with a strong design and entrepreneurial background.
-I have founded several startups, developed web shops, web apps, native apps and games for more than 15 years now.
+I have founded several startups, developed web shops, web apps, native apps and games for more than 12 years now.
 
 Currently founded my own IT-Agency. (more coming soon) 🍻🚀
 
